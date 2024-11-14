@@ -26,4 +26,3 @@ Edit/Delete Places: Modify or remove your place entries.
 
 ## 🤝 Contributions
 Feel free to fork the repository, open issues, and submit pull requests. Contributions and suggestions are welcome!
->>>>>>> 53c99ad0f656e213f50b1e37e46dea75e3a99906
