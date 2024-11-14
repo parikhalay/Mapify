@@ -1,4 +1,4 @@
-# Place Sharing Platform
+# Mapify
 
 A full-stack web application where users can share places with images and location data. Built using **React**, **Node.js**, **Express.js**, **MongoDB**, **AWS S3**, and **JWT**, this platform enables users to easily interact, upload images, and store location details in a secure and seamless manner.
 
