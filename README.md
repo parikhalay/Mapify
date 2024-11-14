@@ -18,10 +18,11 @@ A full-stack web application where users can share places with images and locati
 - **Cloud Storage**: AWS S3
 - **Development Environment**: Node, NPM, Docker for local development
 
-🖥️ Usage
+##🖥️ Usage
 User Registration/Login: Sign up or log in to the platform using JWT authentication.
 Add New Place: Share a new place by uploading an image and providing location data.
 View Places: Browse and interact with shared places.
 Edit/Delete Places: Modify or remove your place entries.
-🤝 Contributions
+
+##🤝 Contributions
 Feel free to fork the repository, open issues, and submit pull requests. Contributions and suggestions are welcome!
