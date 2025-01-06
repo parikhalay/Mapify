@@ -19,10 +19,10 @@ A full-stack web application where users can share places with images and locati
 - **Development Environment**: Node, NPM, Docker for local development
 
 ## 🖥️ Usage
-User Registration/Login: Sign up or log in to the platform using JWT authentication.
-Add New Place: Share a new place by uploading an image and providing location data.
-View Places: Browse and interact with shared places.
-Edit/Delete Places: Modify or remove your place entries.
+- User Registration/Login: Sign up or log in to the platform using JWT authentication.
+- Add New Place: Share a new place by uploading an image and providing location data.
+- View Places: Browse and interact with shared places.
+- Edit/Delete Places: Modify or remove your place entries.
 
 ## Screen Shots
 ![Home Page](./images/Home.png)
