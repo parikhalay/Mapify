@@ -25,7 +25,10 @@ View Places: Browse and interact with shared places.
 Edit/Delete Places: Modify or remove your place entries.
 
 ## Screen Shots
-![Project Image](images/home.png)
+![Home Page](./images/Home.png)
+![Signup Page](./images/Signup.png)
+![Places Page](./images/Places.png)
+![New Places Page](./images/newPlace.png)
 
 ## 🤝 Contributions
 Feel free to fork the repository, open issues, and submit pull requests. Contributions and suggestions are welcome!
